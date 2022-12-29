@@ -94,14 +94,14 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
-	      <url>http://52.14.183.235:8081/mylandmarktech/repository/tesla-web_releases/</url>
+	      <name>SuperGodswill Technologies Releases Nexus Repository</name>
+	      <url>http://52.14.183.235:8081/supergodswill/repository/tesla-web_releases/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
-	      <url>http://52.14.183.235:8081/mylandmarktech/repository/tesla-web_app-snapshot/</url>
+	      <name>SuperGodswill Technologies Snapshot Nexus Repository </name>
+	      <url>http://52.14.183.235:8081/supergodswill/repository/tesla-web_app-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
