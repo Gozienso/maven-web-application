@@ -107,7 +107,7 @@
 	</distributionManagement>
 	
 	<build>
-		<finalName>teslass</finalName>
+		<finalName>tesla</finalName>
 		
 		<plugins>
 			<plugin>
